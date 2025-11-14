@@ -1,4 +1,4 @@
-# Ultra-Precision Current & Voltage Measurement System
+# Ultra-precision current & voltage measurement system
 
 A precision measurement system built using an **STM32 microcontroller** to measure voltage (1–12V) and current (1µA–100mA) with minimal load on the Device Under Test (DUT).
 
@@ -12,7 +12,7 @@ A precision measurement system built using an **STM32 microcontroller** to measu
 * High‑resolution ADC with low‑noise signal conditioning
 * Developed using **STM32CubeIDE**
 
-## Hardware Overview
+## Hardware overview
 
 * STM32 microcontroller
 * OLED Display (I2C)
@@ -20,14 +20,14 @@ A precision measurement system built using an **STM32 microcontroller** to measu
 * Separate precision circuits for microamp/milliamp/voltage ranges
 * Switch-based range selection
 
-## Software Overview
+## Software overview
 
 * Embedded C (STM32CubeIDE)
 * I2C driver for OLED
 * UART communication for PC data visualization
 * ADC sampling and filtering routines
 
-## How It Works
+## How it works
 
 1. User selects measurement range using switches.
 2. Signal passes through corresponding precision circuit.
@@ -41,5 +41,3 @@ Manuja sandayuru
 Sithira sanjula
 Chiranji udantha
 Dilakshitha manamperi
-
-This project can be used for educational and research purposes.
