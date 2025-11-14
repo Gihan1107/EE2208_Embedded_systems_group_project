@@ -36,9 +36,9 @@ A precision measurement system built using an **STM32 microcontroller** to measu
 
 ## Team members
 
-*Gihan chamara
-*Supun chamara
-*Manuja sandayuru
-*Sithira sanjula
-*Chiranji udantha
-*Dilakshitha manamperi
+* Gihan chamara
+* Supun chamara
+* Manuja sandayuru
+* Sithira sanjula
+* Chiranji udantha
+* Dilakshitha manamperi
