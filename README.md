@@ -35,9 +35,10 @@ A precision measurement system built using an **STM32 microcontroller** to measu
 4. Output is displayed on OLED and sent to PC via UART.
 
 ## Team members
-Gihan chamara
-Supun chamara
-Manuja sandayuru
-Sithira sanjula
-Chiranji udantha
-Dilakshitha manamperi
+
+*Gihan chamara
+*Supun chamara
+*Manuja sandayuru
+*Sithira sanjula
+*Chiranji udantha
+*Dilakshitha manamperi
